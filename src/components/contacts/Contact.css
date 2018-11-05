@@ -1,0 +1,11 @@
+.deleteBtn {
+    color: red;
+    float: right;
+}
+
+.editBtn {
+    cursor: pointer;
+    float: right;
+    color: black;
+    margin-right: 1rem;
+}
